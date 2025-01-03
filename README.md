@@ -75,6 +75,9 @@ Key questions were addressed to understand customer demographics, sales performa
 <br> Explored purchasing trends by gender to identify how male and female customers interact with various product categories.
 
 ### <ins>Share Phase</ins>
+
+This is the dashboards I made with Tableau↓↓
+
 ![Screenshot 2025-01-02 at 9 39 34 PM](https://github.com/user-attachments/assets/9db1948b-6354-4c4e-bc12-b30bff59654e)
 ![Screenshot 2025-01-02 at 9 39 45 PM](https://github.com/user-attachments/assets/4ae4c238-24a0-4dee-86be-ad528a574091)
 ![Screenshot 2025-01-02 at 9 39 51 PM](https://github.com/user-attachments/assets/89f72e13-c4c8-4d47-9625-907f0d081ec8)
